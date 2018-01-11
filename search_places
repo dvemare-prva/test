@@ -1,0 +1,2 @@
+function search_places(search_params):
+	return found_places
